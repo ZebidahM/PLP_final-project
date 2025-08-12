@@ -44,9 +44,3 @@ This project directly supports:
 - Docker (optional)
 - Git
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/smart-waste-nairobi.git
-   cd smart-waste-nairobi
